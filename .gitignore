@@ -1,6 +1,3 @@
-.DS_Store
-/build/*
-/excluded/*
+/private/*
 /src.crx
 /src.zip
-
