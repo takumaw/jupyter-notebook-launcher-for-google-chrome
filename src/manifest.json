@@ -3,10 +3,12 @@
 
 	"name": "__MSG_application_title__",
 	"description": "__MSG_application_description__",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"default_locale": "en",
 	"icons": {
-		"512": "icon_512.png"
+		"16": "icons/icon_16.png",
+		"128": "icons/icon_128.png",
+		"512": "icons/icon_512.png"
 	},
 
 	"app": {
